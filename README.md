@@ -1,3 +1,47 @@
+# NousOS
+
+> **Layer:** Architecture  
+> **Status:** Foundational Canon  
+> **Audience:** Builders, researchers, governance designers, agent architects  
+> **Related:** `nousonet`, `nous-object-id`, `truthmirror`, `git-for-governance`
+
+## What this repo is
+NousOS is the core systems architecture repo for the HopefulVision ecosystem. It defines the governance kernel, consent model, coordination logic, and ethical operating principles for how humans, AI agents, symbolic systems, and applications coexist.
+
+NousOS is not a hardware operating system. It is a consciousness-aware operating model for coordination, agency, and meaning across a distributed sacred technology ecosystem.
+
+## Why it exists
+Most technical systems optimize for control, engagement, or efficiency. NousOS exists to define a different foundation: one where dignity, consent, pluralism, and resonance come first.
+
+This repo translates HopefulVision’s broader philosophy into system architecture that can guide real implementations, governance models, and agent behavior.
+
+## What NousOS is not
+NousOS is **not**:
+- the network layer for spatial or social interaction, which belongs primarily to `nousonet`
+- the identity and embodiment layer for agents, objects, and archetypes, which belongs primarily to `nous-object-id`
+- a generic philosophy repository for all sacred technology writing
+
+NousOS is the **operating and governance architecture layer**.
+
+## How it fits the ecosystem
+This repo connects most directly to:
+- `nousonet`, which extends the architecture into networked and spatial interaction
+- `nous-object-id`, which defines identity, embodiment, and persistent presence
+- `truthmirror`, which contributes reflective and evaluative feedback
+- `git-for-governance`, which informs procedural and civic coordination models
+
+## Start here
+- `README.md`
+- `NousOS_Master_Index.md`
+- `NousOS_Agent_Constellation_Canonical_v1.md`
+- `Q1_Prototype_2026/README.md`
+
+## Current maturity
+- canonical architecture
+- active design
+- partial prototype exploration
+
+
 NousOS — Conscious Operating System for Sacred Technology
 
 NousOS is the core operating system of the HopefulVision ecosystem: a consciousness‑aware coordination layer that governs agents, identities, rituals, data flows, and ethical boundaries across the Sacred Technology Renaissance.
